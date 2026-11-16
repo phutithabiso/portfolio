@@ -1,297 +1,371 @@
 
-<!-- ========================================================= -->
-<!--                 PHUTI THABISO PHAKA                       -->
-<!--              GITHUB PROFILE README                        -->
-<!-- ========================================================= -->
+<!-- =========================================================
+     PHUTI THABISO PHAKA | SOFTWARE ENGINEERING PORTFOLIO
+     Repository: phutithabiso/phutithabiso
+========================================================== -->
 
 <div align="center">
 
-# PHUTI THABISO PHAKA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:123B65,100:1677C8&height=220&section=header&text=PHUTI%20THABISO%20PHAKA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20ENTERPRISE%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" />
 
-### SOFTWARE DEVELOPER | BACKEND & FULL-STACK ENGINEERING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Solutions;Java+%7C+C%23+%7C+Python+%7C+JavaScript;Backend+Engineering+%7C+REST+APIs;Enterprise+Applications+%7C+Cloud+Technologies;Always+Learning.+Always+Engineering." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Java+%26+C%23;Building+Backend+%26+Enterprise+Applications;Designing+APIs+and+Database-Driven+Systems;Exploring+Cloud%2C+DevOps+%26+Application+Security;Turning+Business+Problems+Into+Software+Solutions" />
 
 <br/>
 
 <a href="https://github.com/phutithabiso">
-  <img src="https://img.shields.io/badge/GitHub-phutithabiso-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-phutithabiso-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/phuti-thabiso-phaka/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=phutithabiso&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=phutithabiso&label=PROFILE%20VIEWS&color=1677C8&style=flat-square" />
+<img src="https://img.shields.io/github/followers/phutithabiso?label=Followers&style=flat-square&color=1677C8" />
+<img src="https://img.shields.io/github/stars/phutithabiso?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=1677C8&label=Stars" />
 
 </div>
 
 ---
 
-## `01` — ENGINEERING PROFILE
+## `01 / ABOUT ME`
 
-I am a Software Developer with an Advanced Diploma in Application Development, focused on designing, developing, and improving software solutions.
+<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phutithabiso&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
-My technical interests span backend engineering, full-stack development, enterprise application development, database systems, cloud technologies, and application security.
+I am **Phuti Thabiso Phaka**, a Software Developer with an Advanced Diploma in Application Development and a strong interest in building business-focused software solutions.
 
-I enjoy working through the complete software development process — from understanding requirements and designing solutions to implementing business logic, integrating databases, building APIs, and testing applications.
+My technical direction is centred on backend engineering, enterprise application development, full-stack systems, database engineering and cloud technologies.
 
-My current engineering focus is strengthening my capabilities in **Java, C#, backend architecture, enterprise systems, and software engineering practices.**
+I enjoy understanding how software systems work beyond the user interface: how business requirements become application features, how data moves through different layers, how APIs communicate, and how applications can be designed to remain maintainable and secure.
 
-```csharp
-public class SoftwareDeveloper
-{
-    public string Name => "Phuti Thabiso Phaka";
+My development journey includes practical work with Java, C#, database-driven applications, REST APIs, object-oriented programming, software testing and full-stack technologies.
 
-    public string PrimaryFocus => "Software Engineering";
+### Professional interests
 
-    public string[] CoreTechnologies =>
-    {
-        "Java",
-        "C#",
-        "Python",
-        "JavaScript"
-    };
+- Backend and API engineering
+- Enterprise application development
+- Software architecture and design patterns
+- Database design and data management
+- Full-stack application development
+- Cloud computing and DevOps
+- Application security and software quality
+- Artificial intelligence and emerging technologies
 
-    public string[] EngineeringInterests =>
-    {
-        "Backend Development",
-        "Enterprise Applications",
-        "REST API Development",
-        "Database Engineering",
-        "Cloud Technologies",
-        "Application Security"
-    };
+<br clear="right"/>
 
-    public string Philosophy =>
-        "Build solutions. Understand the engineering. Keep improving.";
-}
-```
+### Engineering philosophy
+
+> I believe in understanding the problem before writing the solution, designing software with maintainability in mind, and continuously improving through practical engineering.
 
 ---
 
-## `02` — TECHNICAL ECOSYSTEM
+## `02 / TECHNICAL SKILLS`
 
-### Programming Languages
+### Programming languages
 
-<div align="left">
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,html,css" />
+</p>
 
-</div>
+### Backend engineering
 
-### Backend & Application Development
-
-<div align="left">
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" />
+</p>
 
-</div>
+- Java and Object-Oriented Programming
+- Spring Boot application development
+- C# and .NET development
+- ASP.NET Core Web API
+- RESTful API design
+- Layered application architecture
+- Business logic and service-layer implementation
+- Authentication and authorization concepts
 
-**Areas of focus:**
-- Object-Oriented Programming and software design
-- Spring Boot and Java application development
-- ASP.NET Core Web API and C# development
-- RESTful API design and implementation
-- Backend business logic and service-layer architecture
-- Application integration and validation
+### Frontend engineering
 
-### Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,ts" />
+</p>
 
-<div align="left">
+- React application development
+- TypeScript and JavaScript
+- Component-based development
+- Responsive interfaces
+- Frontend and backend integration
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" />
+### Databases and data engineering
 
-</div>
-
-### Databases & Data Management
-
-<div align="left">
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
 
-</div>
-
-**Database interests:**
+- PostgreSQL
+- Microsoft SQL Server
+- MySQL
+- MongoDB
 - Relational database design
 - SQL queries and data manipulation
-- Database relationships and normalization
 - Entity Relationship Diagrams
-- PostgreSQL and SQL Server
-- Application-to-database integration
+- Data modelling and persistence
 
-### Development Tools & Infrastructure
+### Tools, platforms and infrastructure
 
-<div align="left">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,maven,docker,kubernetes,linux,idea,vscode,visualstudio,postman,aws,azure,githubactions" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,docker,kubernetes,linux,idea,vscode,visualstudio" />
+- Git and GitHub
+- IntelliJ IDEA
+- Visual Studio and VS Code
+- Maven
+- Postman
+- Docker and containerisation concepts
+- Linux fundamentals
+- AWS and Azure cloud concepts
+- CI/CD and GitHub Actions
 
-</div>
-
-### Cloud, DevOps & Security
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,githubactions" />
-
-</div>
-
-*Developing practical knowledge in cloud development, DevOps workflows, infrastructure, application security, and deployment technologies.*
+<sub>Technology icons represent technologies I use, have worked with, or am actively developing practical knowledge in. They do not imply professional mastery or certification.</sub>
 
 ---
 
-## `03` — FEATURED ENGINEERING PROJECTS
+## `03 / ENGINEERING PORTFOLIO`
 
-My portfolio focuses on practical engineering work, including backend systems, enterprise applications, database-driven solutions, and programming challenges.
+My portfolio focuses on practical software development, backend systems, database-driven applications and enterprise-oriented solutions.
 
-### 01. CRTD — Student CRUD API
+### 01. StockFlow Enterprise
 
-**Current development focus**
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/TYPE-ENTERPRISE%20APPLICATION-6F42C1?style=flat-square" />
 
-A student management API focused on implementing structured backend functionality and CRUD operations.
+**Product and Warehouse Inventory Management System**
 
-**Engineering areas:**
-- REST API development
+StockFlow Enterprise is an inventory management application focused on helping businesses manage products, stock information and warehouse-related operations through a structured software platform.
+
+The project uses a backend API and a separate frontend application.
+
+**Technology stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts,vite,maven" />
+</p>
+
+| Layer | Technology |
+|---|---|
+| Backend | Java, Spring Boot |
+| Persistence | Spring Data JPA, Hibernate |
+| Database | PostgreSQL |
+| Security | Spring Security, JWT |
+| Database migrations | Flyway |
+| Frontend | React 18, TypeScript |
+| Build tooling | Maven, Vite |
+| Monitoring | Spring Boot Actuator |
+
+**Planned and developing business capabilities**
+
+- Product and category management
+- Inventory and stock records
+- Stock movement tracking
+- Warehouse operations
+- Supplier management
+- Purchasing and order workflows
+- User and role management
+- Operational reporting and dashboards
+
+**Engineering focus**
+
+- REST API architecture
+- Backend service and repository layers
+- Relational data modelling
+- Database persistence
+- Application security
+- Frontend/backend integration
+- Maintainable enterprise application structure
+
+**Development note:** The backend foundation has been implemented and tested locally, including compilation, database connectivity and application health checks. Additional functionality and production-readiness work remain part of the development roadmap.
+
+---
+
+### 02. CRTD Student Management REST API
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-6F42C1?style=flat-square" />
+
+A student management API developed to strengthen practical backend engineering and structured application development.
+
+**Engineering areas**
+
+- RESTful API development
+- Student resource management
 - Controller and service-layer separation
 - Business logic implementation
-- Data persistence
-- Backend architecture
+- Data access and persistence
+- Request handling and validation
+- Backend application structure
 
-**Current progress:** Service layer development.
-
----
-
-### 02. StockFlow Enterprise
-
-**Enterprise application development**
-
-An application concept focused on stock and inventory management, with a Java backend and React-based frontend.
-
-**Technology stack:**
-- Java
-- Spring Boot
-- PostgreSQL
-- React
-- Vite
-- Maven
-
-**Engineering focus:**
-- Backend application architecture
-- Database integration
-- API development
-- Frontend/backend communication
-- Enterprise application structure
+**Current development milestone:** Service-layer development.
 
 ---
 
-### 03. Customer Information File (CIF) System
+### 03. Java Practical Training Programme
 
-**Enterprise systems | Database design**
+<img src="https://img.shields.io/badge/TYPE-PRACTICAL%20ENGINEERING-238636?style=flat-square" />
 
-A customer information management system designed around structured customer records and associated business information.
+A structured Java development repository focused on strengthening core programming knowledge through practical exercises and application-building tasks.
 
-**Core domain areas:**
-- Individual customers
-- Corporate customers
-- Customer addresses and contacts
-- Identification documents
-- Customer status history
-- Risk-rating history
+**Technical areas**
 
-**Engineering focus:**
-- Domain modelling
-- Relational database architecture
-- Entity relationships
-- Data integrity
-- Enterprise application design
-
----
-
-### 04. Java Practical Training Programme
-
-**Core Java | Object-Oriented Programming | Testing**
-
-A structured practical development programme designed to strengthen programming fundamentals and software engineering ability.
-
-**Technical areas:**
-- Java OOP
+- Object-Oriented Programming
 - Classes, objects and methods
 - Arrays and collections
 - Exception handling
+- Java application structure
 - Maven project management
 - JUnit 5
 - Test-Driven Development
-- Problem-solving and application design
+- Problem-solving and programming logic
 
-[Explore Java Practical Training](https://github.com/phutithabiso/Java_Practical_Training_Programme)
+[Explore the Java Practical Training Programme](https://github.com/phutithabiso/Java_Practical_Training_Programme)
 
 ---
 
-### 05. Java Programming Labs
+### 04. Java Programming Labs
 
-A collection of Java programming exercises and practical development work.
+<img src="https://img.shields.io/badge/TYPE-PROGRAMMING%20PRACTICE-238636?style=flat-square" />
+
+A repository containing Java programming exercises and practical development work.
+
+The focus is on improving programming fluency, applying core Java concepts and developing structured solutions to programming problems.
 
 [Explore Java Programming Labs](https://github.com/phutithabiso/Java-Programming-Labs)
 
 ---
 
-### 06. DOLVEM Technologies
+### 05. Java Advanced Labs
 
-**Technology initiative | Software & Digital Transformation**
+<img src="https://img.shields.io/badge/TYPE-ADVANCED%20JAVA%20PRACTICE-238636?style=flat-square" />
 
-A developing technology business concept exploring opportunities in:
+Advanced practical Java exercises covering selected language and software design concepts.
 
-- Software engineering
-- Enterprise application development
-- Cloud and infrastructure
-- AI and data technologies
-- Cybersecurity
-- Hardware and IT solutions
-- IT consulting
-- Digital transformation
+**Topics explored**
 
-The initiative represents my interest in connecting software engineering with practical business and technology challenges.
+- Enums and structured data
+- Interfaces and records
+- Booking validation
+- Custom annotations
+- Object-oriented design
+- Practical programming exercises
+
+[Explore Java Advanced Labs](https://github.com/Meccer-InterEd/Java-Advanced-Lab)
 
 ---
 
-## `04` — ENGINEERING & DEVELOPMENT PRACTICES
+## `04 / NEXT ENTERPRISE BUILD`
 
-I am continuously developing practical experience across the software development lifecycle.
+### Enterprise Workflow & Document Management Platform
 
-| Engineering Area | Current Focus |
+<img src="https://img.shields.io/badge/STATUS-PROPOSED%20PROJECT-8957E5?style=flat-square" />
+<img src="https://img.shields.io/badge/TYPE-ENTERPRISE%20SYSTEM-6F42C1?style=flat-square" />
+
+A proposed enterprise platform for managing organisational documents, internal requests, business approvals and workflow processes.
+
+The objective is to build a system that demonstrates more than CRUD functionality: it should demonstrate business rules, workflow state transitions, permissions, auditability and reliable data management.
+
+**Proposed business modules**
+
+| Module | Functionality |
 |---|---|
-| Software Design | OOP, modularity, maintainability |
-| Backend Engineering | Java, C#, REST APIs |
-| Database Engineering | SQL, relational modelling |
-| Testing | JUnit 5, test-driven development |
-| Version Control | Git, GitHub collaboration |
-| Application Security | Secure application development |
-| DevOps | Docker, Linux, deployment concepts |
-| Cloud | AWS and cloud development concepts |
-| Problem Solving | Algorithms and data structures |
+| Document Management | Upload, organise and retrieve documents |
+| Workflow Management | Create and manage business workflows |
+| Approval Engine | Multi-level approval processes |
+| User Administration | Users, departments and roles |
+| Access Control | Role-based permissions |
+| Audit Trail | Track important system activities |
+| Notifications | Workflow and approval notifications |
+| Reporting | Operational and workflow analytics |
+
+**Proposed architecture**
+
+```text
+                WEB APPLICATION
+                 React + TypeScript
+                        |
+                        v
+                 REST API LAYER
+                 ASP.NET Core
+                        |
+                        v
+               APPLICATION SERVICES
+              Business Rules & Workflows
+                        |
+                        v
+                 DOMAIN LAYER
+             Entities & State Transitions
+                        |
+                        v
+               DATA ACCESS LAYER
+                  EF Core
+                        |
+                        v
+                   DATABASE
+                PostgreSQL / SQL Server
+```
+
+**Proposed engineering objectives**
+
+- Clean Architecture
+- SOLID principles
+- Entity Framework Core
+- Authentication and role-based authorization
+- Workflow state management
+- API validation and error handling
+- Automated testing
+- Docker
+- CI/CD
+- Application logging and monitoring
+
+This is a future portfolio project. Its functionality and implementation will be documented as development progresses.
 
 ---
 
-## `05` — EDUCATION & PROFESSIONAL DEVELOPMENT
+## `05 / SOFTWARE ENGINEERING PRACTICES`
+
+| Area | Engineering focus |
+|---|---|
+| Architecture | Layered architecture, modular design |
+| Programming | OOP, SOLID principles, clean code |
+| API Engineering | REST, HTTP methods, validation |
+| Database | Relationships, constraints, persistence |
+| Security | Authentication, authorization |
+| Testing | Unit testing, integration testing, JUnit |
+| Version Control | Git, GitHub |
+| Delivery | Maven, Docker, CI/CD concepts |
+| Problem Solving | Algorithms, data structures, complexity |
+
+---
+
+## `06 / EDUCATION & DEVELOPMENT`
 
 ### Advanced Diploma in Application Development
 
 **The IIE's Rosebank College**
 
-- NQF Level 7
-- 120 credits
-- Awarded December 2025
-- Distinction
-- Overall Top Achiever — Class of 2025
-- Final mark: 85%
+<img src="https://img.shields.io/badge/QUALIFICATION-NQF%207-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/RESULT-DISTINCTION-238636?style=flat-square" />
 
-**Academic focus:**
+- Awarded: December 2025
+- Credits: 120
+- Final mark: 85%
+- Overall Top Achiever — Class of 2025
+
+**Academic areas**
+
 - Advanced Application Development
-- Cloud Development
+- Cloud Development A and B
 - Enterprise Application Development
 - Application Development Security
 - Software Engineering
@@ -303,19 +377,25 @@ I am continuously developing practical experience across the software developmen
 
 Completed: 2024
 
-### Professional Development
+Focused on programming, application development, databases, software development fundamentals and information technology.
+
+### Professional development
 
 **Mecer Inter-Ed — Java Skills Programme**
 
-- Java development
-- Object-Oriented Programming
+A 23-week development programme covering:
+
+- Java development and OOP
 - Web technologies
 - DevOps
 - Cybersecurity fundamentals
 - AI fundamentals
-- Practical development projects
+- Practical software development
+- Problem-solving and workplace readiness
 
 **FNB App Academy — Full Stack Development**
+
+Practical exposure to:
 
 - Full-stack development
 - Backend and API concepts
@@ -327,96 +407,124 @@ Completed: 2024
 
 Cloud technology and infrastructure learning.
 
+**TUT–Certa IT Programme — 2021**
+
+- Digital literacy
+- End-user computing
+- Introductory Visual Basic
+- Work readiness
+- Career development
+
 ---
 
-## `06` — CURRENT ENGINEERING ROADMAP
-
-My development roadmap is centred on building the technical depth required to contribute to production software systems.
+## `07 / CURRENT ENGINEERING ROADMAP`
 
 ```text
-SOFTWARE ENGINEERING
-        |
-        +-- Backend Development
-        |      +-- Java
-        |      +-- Spring Boot
-        |      +-- C#
-        |      +-- ASP.NET Core
-        |
-        +-- Application Architecture
-        |      +-- OOP & SOLID
-        |      +-- Design Patterns
-        |      +-- Layered Architecture
-        |      +-- Microservices Concepts
-        |
-        +-- Database Engineering
-        |      +-- PostgreSQL
-        |      +-- SQL Server
-        |      +-- Data Modelling
-        |
-        +-- Quality Engineering
-        |      +-- JUnit 5
-        |      +-- Automated Testing
-        |      +-- TDD
-        |
-        +-- Cloud & Infrastructure
-               +-- Docker
-               +-- Kubernetes
-               +-- Linux
-               +-- Cloud Platforms
+SOFTWARE ENGINEERING DEVELOPMENT
+│
+├── BACKEND ENGINEERING
+│   ├── Java
+│   ├── Spring Boot
+│   ├── C#
+│   ├── ASP.NET Core
+│   └── REST API Architecture
+│
+├── SOFTWARE ARCHITECTURE
+│   ├── Object-Oriented Design
+│   ├── SOLID Principles
+│   ├── Design Patterns
+│   ├── Clean Architecture
+│   └── Enterprise Application Design
+│
+├── DATABASE ENGINEERING
+│   ├── PostgreSQL
+│   ├── SQL Server
+│   ├── Relational Modelling
+│   └── Data Persistence
+│
+├── QUALITY ENGINEERING
+│   ├── JUnit 5
+│   ├── Unit Testing
+│   ├── Integration Testing
+│   └── Test-Driven Development
+│
+└── CLOUD & DELIVERY
+    ├── Docker
+    ├── Kubernetes
+    ├── Linux
+    ├── CI/CD
+    └── Cloud Platforms
 ```
 
 ---
 
-## `07` — GITHUB ANALYTICS
+## `08 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=phutithabiso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phutithabiso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phutithabiso&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phutithabiso&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=phutithabiso&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=phutithabiso&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## `08` — ENGINEERING MINDSET
-
-> Good software engineering is not just about writing code. It is about understanding problems, designing maintainable solutions, making sound technical decisions, and continuously improving the quality of what you build.
-
-My objective is to grow into a well-rounded Software Engineer capable of contributing to enterprise applications, backend platforms, cloud-based solutions, and systems that solve meaningful business problems.
-
-I value:
-
-- Technical depth over superficial knowledge.
-- Practical implementation over theory alone.
-- Clean, maintainable, and understandable code.
-- Continuous learning and engineering discipline.
-- Collaboration, accountability, and problem-solving.
-
----
-
-## `09` — LET'S CONNECT
+## `09 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-**Interested in software engineering, backend development, enterprise applications, and technology innovation.**
+<img src="https://raw.githubusercontent.com/phutithabiso/phutithabiso/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## `10 / BEYOND THE CODE`
+
+My professional development is guided by a commitment to continuous learning, technical discipline and practical problem-solving.
+
+My background includes both formal software development education and experience working in a structured professional environment.
+
+I value:
+
+- Understanding business requirements.
+- Writing maintainable and readable code.
+- Building solutions that solve real problems.
+- Learning technologies through implementation.
+- Collaboration and accountability.
+- Continuously improving engineering ability.
+
+I am particularly interested in opportunities involving backend development, enterprise applications, software engineering and full-stack development.
+
+---
+
+## `11 / CONNECT`
+
+<div align="center">
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+Interested in software engineering, enterprise technology, backend development and innovation.
 
 <a href="https://github.com/phutithabiso">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/phuti-thabiso-phaka/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <br/><br/>
 
-### BUILD • LEARN • ENGINEER • INNOVATE
+**BUILD · ENGINEER · TEST · IMPROVE**
 
-<sub>© Phuti Thabiso Phaka | Software Development Portfolio</sub>
+<sub>Phuti Thabiso Phaka | Software Development Portfolio</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1677C8,50:123B65,100:07111F&height=120&section=footer" />
